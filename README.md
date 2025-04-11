@@ -7,7 +7,7 @@ The Arxiv paper, which was published in 2024, is in the [Lee-JaeWon/2024-Arxiv-P
 
 We are preparing for the upcoming year 2025 with [Lee-JaeWon/2025-Arxiv-Paper-List-Gaussian-Splatting](https://github.com/Lee-JaeWon/2025-Arxiv-Paper-List-Gaussian-Splatting). If you have any suggestions for improvement, please feel free to open an issue!
 
-A more readable HTML version has been added. You can explore the paper more intuitively at [https://lee-jaewon.github.io/2025-Arxiv-Paper-List-Gaussian-Splatting/](https://lee-jaewon.github.io/2025-Arxiv-Paper-List-Gaussian-Splatting/).
+You can explore the paper more intuitively at [https://lee-jaewon.github.io/2025-Arxiv-Paper-List-Gaussian-Splatting/](https://lee-jaewon.github.io/2025-Arxiv-Paper-List-Gaussian-Splatting/).
 
 # Paper List
 
